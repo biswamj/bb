@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/ipl.png",livetv 2022
+http://17.17.17.2:80/CH73-SP/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/livesp.png",livetv 2022
+http://17.17.17.2:80/CH69-SP/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/gtv.png",Gazi tv
+http://17.17.17.2:80/CH72-SP/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/tsports.png",tSports
+http://17.17.17.2:80/CH53-SP/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/ptv-sports.png",Ptv Sports
+http://17.17.17.2:80/CH51-SP/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/beinspex.png",Channel
+http://17.17.17.2:80/CH1-SP/index.m3u8
+#
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/supersport-football.png",Channel
+http://17.17.17.2:80/CH2-SP/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/btv2.png",BTV
+http://17.17.17.2:80/CH49-SP/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/starsp1.png",Star Sports 1
+http://17.17.17.2:80/CH68-SP/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/star-sports-2.png",Star Sports 2
+http://17.17.17.2:80/CH28-SP/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/startsports-select-1hd.png",Star Sports Selected 1
+http://17.17.17.2:80/CH54-SP/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/startsports-select-2hd.png",Star Sports Selected 2
+http://17.17.17.2:80/CH55-SP/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/sonysix.png",Ten1
+http://17.17.17.2:80/CH29-SP/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://14.20.20.2/channel-logo/sony-ten-02.png",ten 2
+http://17.17.17.2:80/CH27-SP/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/masranga.png",Machranga
+http://17.17.17.2:80/CH3-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/chenneli.png",Channel I
+http://17.17.17.2:80/CH65-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/ntv.png",NTV
+http://17.17.17.2:80/CH66-SP/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/somoytv.jpg",Somoy News
+http://17.17.17.2:80/CH4-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/satv.png",SA Tv
+http://17.17.17.2:80/CH5-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/mytv.png",My tv
+http://17.17.17.2:80/CH6-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/boishakhitv.jpg",Boishaki Tv
+http://17.17.17.2:80/CH7-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/news24.png",News 24
+http://17.17.17.2:80/CH8-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/independent.png",Independent
+http://17.17.17.2:80/CH9-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/jumunatv.png",Jamuna
+http://17.17.17.2:80/CH10-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/mohona.jpg",Mohona
+http://17.17.17.2:80/CH36-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/atnbangla.jpg",Atn Bangla
+http://17.17.17.2:80/CH11-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/rtv.png",RTV
+http://17.17.17.2:80/CH12-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/dbc.png",DBC
+http://17.17.17.2:80/CH13-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/109.jpg",Akash 8
+http://17.17.17.2:80/CH14-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/colorsbangla.png",colors Bangla
+http://17.17.17.2:80/CH15-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/zeebanglacinema.png",Zee bangla cn
+http://17.17.17.2:80/CH16-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/Jalshamovi.jpg",Jalshamovies
+http://17.17.17.2:80/CH37-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/sonyaath.png",Sony 8
+http://17.17.17.2:80/CH17-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/zeebangla.png",Zee Bangla
+http://17.17.17.2:80/CH18-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/starjalsha.png",Star Jalsha
+http://17.17.17.2:80/CH19-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/zeecinema.png",Zee Cinema
+http://17.17.17.2:80/CH31-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/sonymax.png",Sony Max
+http://17.17.17.2:80/CH21-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/sonysab.png",Sony Sub
+http://17.17.17.2:80/CH22-SP/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/stargoldhd.png",Star Gold
+http://17.17.17.2:80/CH23-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/starplus.png",Star plus
+http://17.17.17.2:80/CH41-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/natgeo.png",NAT Geo
+http://17.17.17.2:80/CH24-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/natwld.png",NAT Geo Wild
+http://17.17.17.2:80/CH60-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/animal.png",animal planet
+http://17.17.17.2:80/CH57-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/disco.png",Discovery
+http://17.17.17.2:80/CH58-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/bbceth.png",BBC Earth
+http://17.17.17.2:80/CH58-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/haj.png",Haj
+http://17.17.17.2:80/CH61-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/alj.png",Al Jajira
+http://17.17.17.2:80/CH62-SP/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/9xm.png",9XM
+http://17.17.17.2:80/CH25-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/sangit-bangla.png",Sangeet Bangla
+http://17.17.17.2:80/CH26-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/banglatalk.png",Bangla talkies
+http://17.17.17.2:80/CH70-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/gaanbn.png",Gaan Bangla
+http://17.17.17.2:80/CH33-SP/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/hbo.png",HBO
+http://17.17.17.2:80/CH30-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/sonypix.png",Sony Pix
+http://17.17.17.2:80/CH34-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/star.png",Star Movies
+http://17.17.17.2:80/CH35-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/stamselected.png",Star Movies Selected
+http://17.17.17.2:80/CH40-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/mn.png",MN+
+http://17.17.17.2:80/CH63-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/moviesn.png",Movies Now
+http://17.17.17.2:80/CH64-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/andflix-1.png",&Flix
+http://17.17.17.2:80/CH71-SP/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/cartoonnetwork.jpg",Cartoon Network
+http://17.17.17.2:80/CH42-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/pogo.png",PoGo
+http://17.17.17.2:80/CH43-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/nickjr.png",Nick Jr.
+http://17.17.17.2:80/CH44-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/nick.png",Nick
+http://17.17.17.2:80/CH47-SP/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://14.20.20.2/channel-logo/duronto.png",Duranto
+http://17.17.17.2:80/CH48-SP/index.m3u8
+
+
+
